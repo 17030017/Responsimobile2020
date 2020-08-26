@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1021964625473",
+    "firebase_url": "https://responsimobile2020.firebaseio.com",
+    "project_id": "responsimobile2020",
+    "storage_bucket": "responsimobile2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021964625473:android:7b7a6e211cb029fb9748c0",
+        "android_client_info": {
+          "package_name": "com.example.responsimobile2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021964625473-vammq12obrseat7ksd1k5pktnf4dtqug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnmezEDz3jzkke4jBarrHAHWVHH2oFRR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021964625473-vammq12obrseat7ksd1k5pktnf4dtqug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
